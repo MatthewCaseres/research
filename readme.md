@@ -1,4 +1,5 @@
 * [the associative scan is slow for larger batch, probably because there are not enough processors](https://github.com/google/jax/discussions/9856)
+* [ASDF](https://www.sciencedirect.com/science/article/pii/S2213133715000645?via%3Dihub)
 * [2021 U.S., Post-Level Term Lapse and Mortality Predictive Modeling](https://www.soa.org/4aab4c/globalassets/assets/files/resources/research-report/2021/2021-plt-predictive-modeling-report.pdf)
     * Effectiveness rate of 80% is good for first durations, is conservative in later durations. Later durations have less policies, less materiality.
 * [RGA 2014, Report on the Lapse and Mortality Experience of Post-Level Premium Period Term Plans](https://www.soa.org/493807/globalassets/assets/files/research/exp-study/research-2014-post-level-shock-report.pdf)
