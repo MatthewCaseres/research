@@ -6,3 +6,4 @@
 * [Doll 2003, multiple dukes-macdonald sample calculations](https://www.soa.org/globalassets/assets/library/newsletters/product-development-news/2003/july/pdn-2003-iss56-doll-a.pdf)
 * [Dukes MacDonald 1980](https://www.soa.org/globalassets/assets/library/research/transactions-of-society-of-actuaries/1980/january/tsa80v3216.pdf)
 * Time to run a forward pass of a GLM is tight, millions of forward passes are needed. Requirements of requests per second on a web service are likely to be much lower.
+* Clustering benchmark
